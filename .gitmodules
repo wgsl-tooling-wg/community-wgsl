@@ -1,0 +1,3 @@
+[submodule "webgpu-samples"]
+	path = webgpu-samples
+	url = https://github.com/webgpu/webgpu-samples.git
