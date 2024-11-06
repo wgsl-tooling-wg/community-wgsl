@@ -1,3 +1,6 @@
 [submodule "webgpu-samples"]
 	path = webgpu-samples
 	url = https://github.com/webgpu/webgpu-samples.git
+[submodule "unity_web_research"]
+	path = unity_web_research
+	url = https://github.com/Unity-Technologies/unity_web_research.git
