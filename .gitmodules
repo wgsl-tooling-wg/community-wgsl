@@ -3,7 +3,7 @@
 	url = https://github.com/webgpu/webgpu-samples.git
 [submodule "unity_web_research"]
 	path = unity_web_research
-	url = https://github.com/Unity-Technologies/unity_web_research.git
+	url = https://github.com/wgsl-tooling-wg/unity_web_research.git
 [submodule "alpenglow-example-wgsl"]
 	path = alpenglow-example-wgsl
 	url = https://github.com/jonathanolson/alpenglow-example-wgsl.git
