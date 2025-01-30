@@ -7,3 +7,6 @@
 [submodule "alpenglow-example-wgsl"]
 	path = alpenglow-example-wgsl
 	url = https://github.com/jonathanolson/alpenglow-example-wgsl.git
+[submodule "lygia"]
+	path = lygia
+	url = https://github.com/patriciogonzalezvivo/lygia
